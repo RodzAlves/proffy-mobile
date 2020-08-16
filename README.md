@@ -18,7 +18,7 @@ Proffy is a platform to connect students and teachers, it is possible to filter 
 💡 This repository refers to the project's App Mobile.
 
 <h3 align="center">
-  <img src=".github/gif-mobile.gif" alt="demonstration" width="500">
+  <img src=".github/gif-mobile.gif" alt="demonstration" width="200">
 <h3>
 
 ## 🎨 Screens
